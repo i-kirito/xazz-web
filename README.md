@@ -7,9 +7,9 @@
 <a href="https://github.com/i-kirito/ikirito/commits/dev"><img src="https://github.com/sakura-editor/sakura/workflows/build%20sakura/badge.svg" alt="Github" data-canonical-src="?style=flat-square&amp;logo=git&amp;color=important" style="max-width: 100%;"></a>
 <a href="https://www.jsdelivr.com/package/gh/i-kirito/ikirito" rel="nofollow"><img src="https://data.jsdelivr.com/v1/package/gh/i-kirito/ikirito/badge?style=rounded" alt="" style="max-width: 100%;"></a></p>
 <p>中文 | <a href="/README-en.md">Engilsh</a></p>
-<p>Mashirozx大佬的网站让我首次看到sakura主题的美观，正是那时候我对网页制作产生的兴趣（高中）</p>
+<p>Mashirozx大佬的网站让我首次看到sakura主题的美观，正是那时候我对网页制作产生的兴趣</p>
 <p>Sakura主题建议<code>git clone</code> 下载（<a href="https://github.com/mashirozx/Sakura/wiki/Git-%E4%B8%8B%E8%BD%BD%E3%80%81%E6%9B%B4%E6%96%B0%E6%8C%87%E5%8D%97">git教程</a>）；ikirito的网站是使用云服务器搭建宝塔面板然后安装WordPress的Sakura主题。</p>
-<p>特别感谢 <a href="https://github.com/mashirozx/sakura">@Sakura</a> 的免费开源！</p>
+<p>特别感谢 <a href="https://github.com/mashirozx/sakura">@Sakura</a> 的免费开源！为什么不更新到3.4.0呢 因为懒~</p>
 <h4>★以下提供：</h4>
 <p>主题使用说明见：<a href="https://2heng.xin/theme-sakura/" rel="nofollow">https://2heng.xin/theme-sakura/</a></p>
 <p>本仓库国内镜像：<a href="https://gitee.com/mashirozx/Sakura" rel="nofollow">https://gitee.com/mashirozx/Sakura</a></p>
