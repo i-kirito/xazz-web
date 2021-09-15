@@ -8,7 +8,7 @@
 <a href="https://www.jsdelivr.com/package/gh/i-kirito/ikirito" rel="nofollow"><img src="https://data.jsdelivr.com/v1/package/gh/i-kirito/ikirito/badge?style=rounded" alt="" style="max-width: 100%;"></a></p>
 <p>中文 | <a href="/README-en.md">Engilsh</a></p>
 <p>Mashirozx大佬的网站让我首次看到sakura主题的美观，正是那时候我对网页制作产生的兴趣</p>
-<p>·</p>
+<h4>★主题安装：</h4>
 <p>Sakura主题建议<code>git clone</code> 下载（<a href="https://github.com/mashirozx/Sakura/wiki/Git-%E4%B8%8B%E8%BD%BD%E3%80%81%E6%9B%B4%E6%96%B0%E6%8C%87%E5%8D%97">git教程</a>）；ikirito的网站是使用云服务器搭建宝塔面板然后安装WordPress的Sakura主题。</p>
 <p>特别感谢 <a href="https://github.com/mashirozx/sakura">@Sakura</a> 的免费开源！为什么不更新到3.4.0呢 因为懒~</p>
 <h4>★以下提供：</h4>
