@@ -18,5 +18,5 @@
 <h3>打赏支持~</h3>
 <p><a href="https://cdn.jsdelivr.net/gh/i-kirito/cdn@1.2.4/images/2021/09/wechat.png" rel="nofollow">微信支付</a> | <a href="https://cdn.jsdelivr.net/gh/i-kirito/cdn@1.2.5/images/2021/09/alipay.png" rel="nofollow">支付宝</a> | <a href="https://www.paypal.com/paypalme/windpurple" rel="nofollow">PayPal</a></p>
 <h3>需要服务器吗？</h3>
-<p><a href="https://www.vultr.com/?ref=8919526"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a></p>
+<p><a href="https://www.vultr.com/?ref=8948392-8H"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a></p>
 </article>
