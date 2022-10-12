@@ -16,7 +16,7 @@
 <p>本仓库国内镜像：<a href="https://gitee.com/mashirozx/Sakura" rel="nofollow">https://gitee.com/mashirozx/Sakura</a></p>
 <p>希望你喜欢！支持原作者！</p>
 <h3>打赏支持~</h3>
-<p><a href="https://cdn.jsdelivr.net/gh/i-kirito/cdn@1.2.4/images/2021/09/wechat.png" rel="nofollow">微信支付</a> | <a href="https://cdn.jsdelivr.net/gh/i-kirito/cdn@1.2.5/images/2021/09/alipay.png" rel="nofollow">支付宝</a> | <a href="https://www.paypal.com/paypalme/windpurple" rel="nofollow">PayPal</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/i-kirito/cdn@1.2.4/images/2021/09/wechat.png" rel="nofollow">微信支付</a> | <a href="" rel="nofollow">支付宝</a> | <a href="" rel="nofollow">PayPal</a></p>
 <h3>需要服务器吗？</h3>
 <p><a href=""><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>  已失效</p>
 </article>
