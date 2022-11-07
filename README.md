@@ -17,4 +17,5 @@
 <p>希望你喜欢！支持原作者！</p>
 <h3>打赏支持~</h3>
 <p><a href="https://cdn.jsdelivr.net/gh/i-kirito/cdn@1.2.4/images/2021/09/wechat.png" rel="nofollow">微信支付</a> | <a href="" rel="nofollow">支付宝</a> | <a href="" rel="nofollow">PayPal</a></p>
+<h2>由于经费有限，wordpress的复杂性需要强有力的服务器DNS保证，所以现已转用Halo</h2>
 </article>
